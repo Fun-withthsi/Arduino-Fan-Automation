@@ -13,5 +13,5 @@ This Arduino project utilizes a temperature sensor, servo motor, and DHT library
 
 ## Installation
 1. Connect the DHT sensor and servo motor to the Arduino board following the circuit diagram provided in the 'Circuit Diagram' folder.
-2. Download and install the Arduino IDE from [arduino
-3. 
+2. Download and install the Arduino IDE from https://www.arduino.cc/
+3. download or clone the fine and upload to the board
