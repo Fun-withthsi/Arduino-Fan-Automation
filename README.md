@@ -31,9 +31,12 @@ This Arduino project utilizes a temperature sensor, servo motor, and DHT library
 
 -2N2222 Transistor: This transistor will be used to control the fan speed using the signal from the Arduino.
 
--Two-Way Switch: One switch will be used for automatic fan control and the other for manual control. The implementation of this will depend on your specific requirements.
+-Two-Wa`y Switch: One switch will be used for automatic fan control and the other for manual control. The implementation of this will depend on your specific requirements.
 
 -Servo Motor: The servo motor can be used to physically move the fan based on the temperature. The exact implementation will depend on your specific requirements.
 
 -Fan Regulator: This will be used to regulate the fan speed. The implementation of this will depend on your specific requirements.
+```js
+git clone 
+```
 
