@@ -37,6 +37,6 @@ This Arduino project utilizes a temperature sensor, servo motor, and DHT library
 
 -Fan Regulator: This will be used to regulate the fan speed. The implementation of this will depend on your specific requirements.
 ```js
-git clone 
+git clone https://github.com/Fun-withthsi/Arduino-.git
 ```
 
